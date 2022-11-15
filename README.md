@@ -8,7 +8,7 @@ Criando um app para saber se o mais vantajoso é abastecer com etanol ou gasolin
 - HTML
 - JavaScript
 
-https://cristina-mota.github.io/calculadora-flex/
+
 
 >>Contato
 cm.crismota@gmail.com
