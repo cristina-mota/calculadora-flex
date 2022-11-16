@@ -3,7 +3,7 @@
  * @author Professor José de Assis
  */
 
-var etanol ,gasolina;
+var etanol ,gasolina
 
 function calcular() {
     etanol= parseFloat(frmFlex.txtEtanol.value.replace(",","."));
